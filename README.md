@@ -1,3 +1,18 @@
+### <p align="center">⚙️ &nbsp;Mes Statistiques</p>
+<br>
+<p align="center">
+<a href="https://github.com/bymb">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bymb&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bymb&layout=compact&langs_count=8&theme=midnight-purple&locale=fr"/>
+</a>
+  
+</p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bymb&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bymb&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
+-----
+
+### <p align="center">👀 &nbsp;Visiteurs</p>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/bymb/count.svg" />
+</p>
+
